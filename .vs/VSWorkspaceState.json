@@ -1,7 +1,14 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Store",
+    "\\Store\\bin\\Debug",
+    "\\Store\\bin\\Debug\\net6.0",
+    "\\Store\\bin\\Release",
+    "\\Store\\bin\\Release\\net6.0",
+    "\\Store\\Controllers",
+    "\\Store\\obj\\Debug\\net6.0"
   ],
-  "SelectedNode": "\\C:\\Projects\\repo\\lothbr\\Store",
+  "SelectedNode": "\\Store",
   "PreviewInSolutionExplorer": false
 }
